@@ -22,6 +22,7 @@ for i in range(num+1):
 for i in range(num+1):
     print(' '*(num-i)+'1'*i)
 
+print('push_pull from in to git_github')
 
 
 
