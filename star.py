@@ -24,6 +24,6 @@ for i in range(num+1):
 
 print('push_pull from in to git_github')
 
-print('2nd push_pull)
+print('2nd push_pull')
 
-
+print('3rd push_pull')
